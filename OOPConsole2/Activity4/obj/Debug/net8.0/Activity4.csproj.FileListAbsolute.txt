@@ -1,0 +1,15 @@
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/Activity4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/Activity4.AssemblyInfoInputs.cache
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/Activity4.AssemblyInfo.cs
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/Activity4.csproj.CoreCompileInputs.cache
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/Activity4.sourcelink.json
+/workspaces/act-3/OOPConsole2/Activity4/bin/Debug/net8.0/Activity4
+/workspaces/act-3/OOPConsole2/Activity4/bin/Debug/net8.0/Activity4.deps.json
+/workspaces/act-3/OOPConsole2/Activity4/bin/Debug/net8.0/Activity4.runtimeconfig.json
+/workspaces/act-3/OOPConsole2/Activity4/bin/Debug/net8.0/Activity4.dll
+/workspaces/act-3/OOPConsole2/Activity4/bin/Debug/net8.0/Activity4.pdb
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/Activity4.dll
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/refint/Activity4.dll
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/Activity4.pdb
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/Activity4.genruntimeconfig.cache
+/workspaces/act-3/OOPConsole2/Activity4/obj/Debug/net8.0/ref/Activity4.dll
