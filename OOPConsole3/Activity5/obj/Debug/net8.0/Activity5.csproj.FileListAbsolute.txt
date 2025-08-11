@@ -1,0 +1,15 @@
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/Activity5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/Activity5.AssemblyInfoInputs.cache
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/Activity5.AssemblyInfo.cs
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/Activity5.csproj.CoreCompileInputs.cache
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/Activity5.sourcelink.json
+/workspaces/act-3/OOPConsole3/Activity5/bin/Debug/net8.0/Activity5
+/workspaces/act-3/OOPConsole3/Activity5/bin/Debug/net8.0/Activity5.deps.json
+/workspaces/act-3/OOPConsole3/Activity5/bin/Debug/net8.0/Activity5.runtimeconfig.json
+/workspaces/act-3/OOPConsole3/Activity5/bin/Debug/net8.0/Activity5.dll
+/workspaces/act-3/OOPConsole3/Activity5/bin/Debug/net8.0/Activity5.pdb
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/Activity5.dll
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/refint/Activity5.dll
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/Activity5.pdb
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/Activity5.genruntimeconfig.cache
+/workspaces/act-3/OOPConsole3/Activity5/obj/Debug/net8.0/ref/Activity5.dll
