@@ -1,0 +1,15 @@
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/OOPActivity6.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/OOPActivity6.AssemblyInfoInputs.cache
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/OOPActivity6.AssemblyInfo.cs
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/OOPActivity6.csproj.CoreCompileInputs.cache
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/OOPActivity6.sourcelink.json
+/workspaces/act-3/UML/OOPActivity6/bin/Debug/net8.0/OOPActivity6
+/workspaces/act-3/UML/OOPActivity6/bin/Debug/net8.0/OOPActivity6.deps.json
+/workspaces/act-3/UML/OOPActivity6/bin/Debug/net8.0/OOPActivity6.runtimeconfig.json
+/workspaces/act-3/UML/OOPActivity6/bin/Debug/net8.0/OOPActivity6.dll
+/workspaces/act-3/UML/OOPActivity6/bin/Debug/net8.0/OOPActivity6.pdb
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/OOPActivity6.dll
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/refint/OOPActivity6.dll
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/OOPActivity6.pdb
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/OOPActivity6.genruntimeconfig.cache
+/workspaces/act-3/UML/OOPActivity6/obj/Debug/net8.0/ref/OOPActivity6.dll

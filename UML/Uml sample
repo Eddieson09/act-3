@@ -1,0 +1,56 @@
+@startuml
+
+' Define Classes
+class Course {
+    - title: string
+    ~ units: int
+    + Course(t: string, u: int)
+}
+
+class Student {
+    - name: string
+    - enrolledCourse: Course
+    + Student(n: string, c: Course)
+}
+
+class Teacher {
+    - name: string
+    # subject: string
+    + Teacher(n: string, s: string)
+    + Teach(): void
+}
+
+class Department {
+    - name: string
+    - teachers: List<Teacher>
+    + Department(n: string)
+}
+
+class Room {
+    - name: string
+    + Room(n: string)
+}
+
+class House {
+    - address: string
+    - rooms: List<Room>
+    + House(addr: string)
+    + ShowRooms(): void
+}
+
+class Program {
+    + Main(): void
+}
+
+' Relationships
+Program --> Student
+Program --> Teacher
+Program --> Department
+Program --> House
+
+Student --> Course : enrolledCourse
+
+Department o-- Teacher : aggregation
+House *-- Room : composition
+
+@enduml
